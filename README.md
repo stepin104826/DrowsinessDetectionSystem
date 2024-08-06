@@ -1,6 +1,6 @@
 ## Overview
 <img src="drowsiness.jpeg" alt="Your Logo" height="100" width="150" /> 
-Drowsiness Detection system that can detect whether a person is sleeping or awake in real-time through webcam face detection, with an alarm to wake up the drowsy person! 
+A Machine Learning-based Drowsiness Detection system that can detect whether a person is sleeping or awake in real-time through webcam face detection, with an alarm to wake up the drowsy person! 
 
 ## Description
 This Computer Vision model implements a sophisticated image processing and prediction pipeline using Convolutional Neural Networks (CNNs) in TensorFlow and Keras. The primary goal is to achieve high-accuracy image classification through meticulous data preprocessing, model architecture design, and performance evaluation. Key components include:
