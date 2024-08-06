@@ -53,8 +53,22 @@ Prediction:
     Loading and preprocessing new images.
     Using the trained model to make predictions on new data.
 
-## References
 
+## How to Use
+
+1. Clone the repository:
+git clone https://github.com/yourusername/your-repository.git
+cd your-repository
+
+2. Install the required dependencies:
+pip install -r requirements.txt
+
+3. Run the Jupyter Notebook:
+jupyter notebook Real-time-detection.ipynb
+
+Note: Make sure to turn on the webcam!!
+
+## References
 TensorFlow Documentation: TensorFlow
 Keras Documentation: Keras
 OpenCV Documentation: OpenCV
