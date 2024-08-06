@@ -58,12 +58,13 @@ Prediction:
 
 1. Clone the repository:
 git clone https://github.com/yourusername/your-repository.git
+
 cd your-repository
 
-2. Install the required dependencies:
+3. Install the required dependencies:
 pip install -r requirements.txt
 
-3. Run the Jupyter Notebook:
+4. Run the Jupyter Notebook:
 jupyter notebook Real-time-detection.ipynb
 
 Note: Make sure to turn on the webcam!!
