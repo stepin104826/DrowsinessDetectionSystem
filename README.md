@@ -57,8 +57,7 @@ Prediction:
 ## How to Use
 
 1. Clone the repository:
-git clone https://github.com/yourusername/your-repository.git
-
+git clone https://github.com/yourusername/your-repository.git    
 cd your-repository
 
 3. Install the required dependencies:
