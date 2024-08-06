@@ -1,4 +1,5 @@
 ## Overview
+<img src="drowsiness.jpeg" alt="Your Logo" height="100" width="150" /> 
 Drowsiness Detection system that can detect whether a person is sleeping or awake in real-time through webcam face detection, with an alarm to wake up the drowsy person! 
 
 ## Description
